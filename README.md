@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutotileGenerator
 Generate autotiles 2x2/3x3min from sprites whith 5 tiles or 3x3 from 8 tiles, and add to tileset.<br>
 The autotile name defines the name of the sprite from which it was created.<br>
@@ -49,3 +50,9 @@ Source <br>
 Result <br>
   <a href="https://ibb.co/DVThDtk"><img src="https://i.ibb.co/JBgVRK2/image.png" alt="image" border="0"></a>
 </details>
+=======
+# Node-Is-You
+Game Off Game top down puzzle game
+
+
+>>>>>>> 7f58fed77a6bd38b125576a002e0c7dcffe499ed
