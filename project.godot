@@ -8,9 +8,20 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Node2D",
+"class": "AutotileGenerator",
+"language": "GDScript",
+"path": "res://addons/AutotileGenerator/AutotileGenerator.gd"
+} ]
+_global_script_class_icons={
+"AutotileGenerator": ""
+}
+
 [application]
 
 config/name="Node is You"
+run/main_scene="res://Levels/Main Scene.tscn"
 config/icon="res://icon.png"
 
 [physics]
